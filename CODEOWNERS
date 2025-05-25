@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @debjit-dev
+/src/backend/database.py      @debjit-dev
+/src/backend/routers/auth.py  @debjit-dev
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @debjit-dev
